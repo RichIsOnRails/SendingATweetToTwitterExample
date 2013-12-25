@@ -1,0 +1,3 @@
+== Sending a Tweet to Twitter Example App
+
+See http://richonrails.com/articles/sending-a-tweet-to-twitter for details.
